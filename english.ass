@@ -1,0 +1,303 @@
+﻿[Script Info]
+Title: Erai-raws
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 1280
+PlayResY: 720
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Open Sans Semibold,45,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,10,10,25,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:17.91,0:00:19.29,Default,,0,0,0,,That's...
+Dialogue: 0,0:00:28.08,0:00:30.91,Default,,0,0,0,,How interesting.
+Dialogue: 0,0:00:30.91,0:00:32.74,Default,,0,0,0,,Grandfather?
+Dialogue: 0,0:00:32.74,0:00:37.62,Default,,0,0,0,,That last psychokinetic blast\Ncame from the 3H, didn't it?
+Dialogue: 0,0:00:37.62,0:00:43.45,Default,,0,0,0,,I've never heard of anyone developing\Nrobots that could use psychic powers.
+Dialogue: 0,0:00:43.45,0:00:48.33,Default,,0,0,0,,Neither have I... I don't believe\Nit's possible for current technology.
+Dialogue: 0,0:00:49.66,0:00:52.66,Default,,0,0,0,,I shouldn't think so.\NWhich would mean...
+Dialogue: 0,0:00:52.66,0:00:58.95,Default,,0,0,0,,a nonmachine element resides in that 3H.
+Dialogue: 0,0:00:58.95,0:01:02.62,Default,,0,0,0,,So, the demon has inhabited\Nthe robot, has it?
+Dialogue: 0,0:01:02.62,0:01:08.24,Default,,0,0,0,,I've received reports about the parasites,\Nbut I didn't hear anything about this.
+Dialogue: 0,0:01:08.24,0:01:11.45,Default,,0,0,0,,We haven't received reports of it, either.
+Dialogue: 0,0:01:11.45,0:01:14.12,Default,,0,0,0,,I've only heard about it\Nthrough personal conversations.
+Dialogue: 0,0:01:14.12,0:01:16.24,Default,,0,0,0,,No, no.
+Dialogue: 0,0:01:16.24,0:01:19.74,Default,,0,0,0,,I wasn't criticizing you, Kyouko.\NI was just thinking about...
+Dialogue: 0,0:01:19.74,0:01:22.41,Default,,0,0,0,,how fascinating it was.
+Dialogue: 0,0:01:24.45,0:01:29.16,Default,,0,0,0,,To think that you could use\Na humanoid robot this way...
+Dialogue: 0,0:03:07.62,0:03:09.37,Default,,0,0,0,,This isn't good, though.
+Dialogue: 0,0:03:09.37,0:03:13.29,Default,,0,0,0,,That psychic display\Nmust've been seen.
+Dialogue: 0,0:03:13.29,0:03:16.24,Default,,0,0,0,,The police will be upon us presently.
+Dialogue: 0,0:03:16.24,0:03:19.33,Default,,0,0,0,,Brother, should we leave here\Nfor the time being?
+Dialogue: 0,0:03:19.33,0:03:20.74,Default,,0,0,0,,Yeah.
+Dialogue: 0,0:03:20.74,0:03:22.54,Default,,0,0,0,,Tatsuya!
+Dialogue: 0,0:03:22.54,0:03:24.49,Default,,0,0,0,,Sorry! We're late!
+Dialogue: 0,0:03:25.79,0:03:27.45,Default,,0,0,0,,Good timing.
+Dialogue: 0,0:03:27.45,0:03:29.58,Default,,0,0,0,,Leo, you came, too?
+Dialogue: 0,0:03:29.58,0:03:34.24,Default,,0,0,0,,Yeah. I got them to let me tag along.\NPartly for rehab.
+Dialogue: 0,0:03:34.24,0:03:35.58,Default,,0,0,0,,Well, don't overdo it.
+Dialogue: 0,0:03:35.58,0:03:36.79,Default,,0,0,0,,Right.
+Dialogue: 0,0:03:36.79,0:03:38.24,Default,,0,0,0,,Erika...
+Dialogue: 0,0:03:38.24,0:03:39.62,Default,,0,0,0,,What?
+Dialogue: 0,0:03:39.62,0:03:42.91,Default,,0,0,0,,We need to leave this place\Nas quickly as possible.
+Dialogue: 0,0:03:42.91,0:03:46.16,Default,,0,0,0,,Did you prepare a way\Nto carry the three of them?
+Dialogue: 0,0:03:46.16,0:03:49.87,Default,,0,0,0,,Um... We can take them to the storehouse\Nat Miki's place. Is that okay?
+Dialogue: 0,0:03:49.87,0:03:52.24,Default,,0,0,0,,Is that okay, Mikihiko?
+Dialogue: 0,0:03:52.24,0:03:53.62,Default,,0,0,0,,Of course it is.
+Dialogue: 0,0:03:53.62,0:03:58.29,Default,,0,0,0,,I mean, that was our job\Nas Ancient Magic users to begin with.
+Dialogue: 0,0:03:58.29,0:04:02.30,Default,,0,0,0,,All right, then me, Miki,\Nand I guess Leo, will take over here.
+Dialogue: 0,0:04:02.30,0:04:02.70,Default,,0,0,0,,You guess?
+Dialogue: 0,0:04:02.70,0:04:05.41,Default,,0,0,0,,You three should go home.
+Dialogue: 0,0:04:05.41,0:04:08.95,Default,,0,0,0,,Wait, why?\NWe'll wait for you to load up.
+Dialogue: 0,0:04:08.95,0:04:12.41,Default,,0,0,0,,Tatsuya, well, that is...
+Dialogue: 0,0:04:19.62,0:04:21.95,Default,,0,0,0,,We'll take a cabinet.
+Dialogue: 0,0:04:21.95,0:04:23.99,Default,,0,0,0,,I think that would be best.
+Dialogue: 0,0:04:33.04,0:04:36.99,Default,,0,0,0,,Brother, whatever might you\Nbe worried about?
+Dialogue: 0,0:04:36.99,0:04:39.87,Default,,0,0,0,,It's not that I'm worried, really, it's just...
+Dialogue: 0,0:04:39.87,0:04:45.37,Default,,0,0,0,,Honoka, when Pixie released\Nthat powerful psychokinetic blast earlier...
+Dialogue: 0,0:04:45.37,0:04:48.20,Default,,0,0,0,,did you get a sense of what happened?
+Dialogue: 0,0:04:48.20,0:04:51.54,Default,,0,0,0,,No, why? What do you mean?
+Dialogue: 0,0:04:51.54,0:04:54.24,Default,,0,0,0,,I'd like you to listen calmly.
+Dialogue: 0,0:04:54.24,0:04:56.70,Default,,0,0,0,,Just before Pixie fired the psychic blast,
+Dialogue: 0,0:04:56.70,0:05:00.24,Default,,0,0,0,,she'd been supplied\Nwith Psions from you, Honoka.
+Dialogue: 0,0:05:03.45,0:05:07.41,Default,,0,0,0,,Do you mean to say\Nthat Honoka provided Pixie with strength?
+Dialogue: 0,0:05:07.41,0:05:10.87,Default,,0,0,0,,No, it didn't exactly seem like that.
+Dialogue: 0,0:05:10.87,0:05:12.91,Default,,0,0,0,,It was similar to the process
+Dialogue: 0,0:05:12.91,0:05:17.45,Default,,0,0,0,,of injecting Psions into a CAD\Nwhen you want to expand an activation sequence.
+Dialogue: 0,0:05:17.45,0:05:21.04,Default,,0,0,0,,Something like priming.
+Dialogue: 0,0:05:21.04,0:05:24.20,Default,,0,0,0,,Or maybe resonance.
+Dialogue: 0,0:05:24.20,0:05:28.79,Default,,0,0,0,,Mizuki said something\Nlike the parasite copied Honoka's thoughts.
+Dialogue: 0,0:05:28.79,0:05:33.79,Default,,0,0,0,,There really seems to be\Nsome sort of path between Honoka and Pixie.
+Dialogue: 0,0:05:33.79,0:05:36.29,Default,,0,0,0,,And it seems like...
+Dialogue: 0,0:05:40.74,0:05:45.70,Default,,0,0,0,,It seems like the medium for it\Nis your hair ornaments, Honoka.
+Dialogue: 0,0:05:47.04,0:05:49.87,Default,,0,0,0,,Specifically, those crystals.
+Dialogue: 0,0:05:49.87,0:05:54.29,Default,,0,0,0,,I don't have any idea\Nwhat sort of logic is at work here, but...
+Dialogue: 0,0:06:09.74,0:06:13.37,Default,,0,0,0,,Tatsuya gave me\Nthese precious hair ornaments!
+Dialogue: 0,0:06:13.37,0:06:15.24,Default,,0,0,0,,I don't want to lose them!
+Dialogue: 0,0:06:16.91,0:06:20.45,Default,,0,0,0,,Setting aside the operative\Nprinciples for now...
+Dialogue: 0,0:06:20.45,0:06:23.24,Default,,0,0,0,,we'll have to find a way to control it.
+Dialogue: 0,0:06:30.04,0:06:33.08,Default,,0,0,0,,Well, how are we going to carry these guys?
+Dialogue: 0,0:06:33.08,0:06:36.33,Default,,0,0,0,,I'll call a car. That'll work, right?
+Dialogue: 0,0:06:36.33,0:06:38.91,Default,,0,0,0,,You there, what are you doing?
+Dialogue: 0,0:06:45.62,0:06:49.24,Default,,0,0,0,,You're all in high school, aren't you?\NWhat are you doing here at this hour?
+Dialogue: 0,0:06:49.24,0:06:51.41,Default,,0,0,0,,What is this?
+Dialogue: 0,0:06:51.41,0:06:53.66,Default,,0,0,0,,What the hell were you doing?
+Dialogue: 0,0:06:53.66,0:06:56.62,Default,,0,0,0,,No, well, you see--
+Dialogue: 0,0:06:56.62,0:06:59.29,Default,,0,0,0,,I should be asking you. Who are you?
+Dialogue: 0,0:06:59.29,0:07:00.27,Default,,0,0,0,,What was that?
+Dialogue: 0,0:07:00.27,0:07:01.66,Default,,0,0,0,,Hey, Erika...
+Dialogue: 0,0:07:01.66,0:07:06.20,Default,,0,0,0,,Didn't you hear me?\NI asked your names and rank.
+Dialogue: 0,0:07:06.20,0:07:07.54,Default,,0,0,0,,What, you don't know?
+Dialogue: 0,0:07:07.54,0:07:10.33,Default,,0,0,0,,There aren't any policemen\Nin this area right now.
+Dialogue: 0,0:07:10.33,0:07:12.83,Default,,0,0,0,,They were ordered to leave.
+Dialogue: 0,0:07:12.83,0:07:16.41,Default,,0,0,0,,Even that stupid brother of mine\Nwouldn't cut corners at a time like this.
+Dialogue: 0,0:07:16.41,0:07:18.29,Default,,0,0,0,,What are you jabbering about?
+Dialogue: 0,0:07:18.29,0:07:21.54,Default,,0,0,0,,You should've pretended to be detectives\Nin civilian clothing to better disguise yourselves.
+Dialogue: 0,0:07:21.54,0:07:24.12,Default,,0,0,0,,Then, I would've at least heard you out.
+Dialogue: 0,0:07:24.12,0:07:27.54,Default,,0,0,0,,You know you can't get out of this\Nwith that nonsense!
+Dialogue: 0,0:07:27.54,0:07:30.62,Default,,0,0,0,,We've caught you committing\Na violent crime! You're coming with us!
+Dialogue: 0,0:07:30.62,0:07:34.08,Default,,0,0,0,,Really? You're still\Ngoing to play the fool, huh?
+Dialogue: 0,0:07:34.08,0:07:36.20,Default,,0,0,0,,That's too bad for you.
+Dialogue: 0,0:07:36.20,0:07:40.70,Default,,0,0,0,,We stopped these three\Nduring an attempted sexual assault.
+Dialogue: 0,0:07:40.70,0:07:44.95,Default,,0,0,0,,And we were just waiting\Nfor actual police officers to get here.
+Dialogue: 0,0:07:44.95,0:07:49.91,Default,,0,0,0,,This is no place for imitations.\NAm I making myself clear here?
+Dialogue: 0,0:07:49.91,0:07:52.95,Default,,0,0,0,,I'm impressed how she can spin a story\Noff the top of her head.
+Dialogue: 0,0:07:52.95,0:07:54.54,Default,,0,0,0,,Mikihiko!
+Dialogue: 0,0:08:03.62,0:08:05.58,Default,,0,0,0,,Leo, get back!
+Dialogue: 0,0:08:17.83,0:08:20.04,Default,,0,0,0,,They make those?
+Dialogue: 0,0:08:44.04,0:08:45.95,Default,,0,0,0,,Thunder Child!
+Dialogue: 0,0:08:48.04,0:08:50.08,Default,,0,0,0,,Where are Leo and Erika?
+Dialogue: 0,0:09:15.79,0:09:18.49,Default,,0,0,0,,We're being pulled away\Nfrom the parasites.
+Dialogue: 0,0:09:18.49,0:09:23.79,Default,,0,0,0,,We have to finish this quickly\Neven if it means being somewhat forceful.
+Dialogue: 0,0:09:23.79,0:09:25.58,Default,,0,0,0,,Get down!
+Dialogue: 0,0:09:52.41,0:09:53.74,Default,,0,0,0,,I'll get 'em!
+Dialogue: 0,0:09:53.74,0:09:56.33,Default,,0,0,0,,Don't, Erika!
+Dialogue: 0,0:09:56.33,0:09:59.83,Default,,0,0,0,,If you shot them out of the sky here,\Nit would cause a massive tragedy.
+Dialogue: 0,0:10:02.04,0:10:04.16,Default,,0,0,0,,Well, that throws a wrench into things.
+Dialogue: 0,0:10:05.99,0:10:09.29,Default,,0,0,0,,A call is coming in from the stealth team.
+Dialogue: 0,0:10:09.29,0:10:11.24,Default,,0,0,0,,Open the line.
+Dialogue: 0,0:10:11.24,0:10:15.99,Default,,0,0,0,,Reporting in. The mission was a success.\NSample secured.
+Dialogue: 0,0:10:15.99,0:10:20.74,Default,,0,0,0,,Despite the accident,\Nyou seem to have accomplished your objective.
+Dialogue: 0,0:10:20.74,0:10:23.37,Default,,0,0,0,,Bring them into the ice box as planned.
+Dialogue: 0,0:10:23.37,0:10:26.29,Default,,0,0,0,,And go heavy on the drugs just in case.
+Dialogue: 0,0:10:26.29,0:10:27.49,Default,,0,0,0,,Yes, sir!
+Dialogue: 0,0:10:29.58,0:10:31.08,Default,,0,0,0,,{\bord3\fnOpen Sans Extrabold\b0\c&HFFFEFC&\3c&H1D3EDF&\pos(702,68)}VISITOR ARC IX
+Dialogue: 0,0:10:31.24,0:10:34.15,Default,,0,0,0,,{\fad(500,500)\shad2\fs39\bord0\fnOpen Sans Light\b0\3c&H000000&\u1\pos(288,90)\c&HFFFFFF&\4c&H000000&\clip(128,46,328,126)\t(0,50,\clip(128,46,440,130))}FEBRUARY 17, 2096
+Dialogue: 0,0:10:37.08,0:10:39.99,Default,,0,0,0,,You had something to talk about?
+Dialogue: 0,0:10:42.33,0:10:45.29,Default,,0,0,0,,Tatsuya, well, actually...
+Dialogue: 0,0:10:45.29,0:10:48.87,Default,,0,0,0,,What, did you let the parasites\Nget away or something?
+Dialogue: 0,0:10:51.08,0:10:54.37,Default,,0,0,0,,I'm not going to get mad\Nat something like that, so stop worrying.
+Dialogue: 0,0:10:54.37,0:10:56.70,Default,,0,0,0,,We can't do anything about them\Nnow that they got away.
+Dialogue: 0,0:10:56.70,0:10:58.58,Default,,0,0,0,,No, that's not it, Tatsuya!
+Dialogue: 0,0:10:58.58,0:11:02.04,Default,,0,0,0,,That's right! They didn't escape!
+Dialogue: 0,0:11:02.04,0:11:06.12,Default,,0,0,0,,Well, I mean, I guess they did, but...
+Dialogue: 0,0:11:08.04,0:11:10.74,Default,,0,0,0,,Someone swooped in and grabbed 'em.
+Dialogue: 0,0:11:10.74,0:11:13.45,Default,,0,0,0,,They were that strong?
+Dialogue: 0,0:11:13.45,0:11:16.04,Default,,0,0,0,,It may sound like we're being sore losers,
+Dialogue: 0,0:11:16.04,0:11:19.41,Default,,0,0,0,,but I don't think they were really that strong\Nin terms of their abilities.
+Dialogue: 0,0:11:19.41,0:11:19.90,Default,,0,0,0,,Right.
+Dialogue: 0,0:11:19.90,0:11:22.33,Default,,0,0,0,,But they came fully armed.
+Dialogue: 0,0:11:22.33,0:11:25.70,Default,,0,0,0,,I've never seen a suit that shocked you\Nwhenever you punched it before.
+Dialogue: 0,0:11:25.70,0:11:28.87,Default,,0,0,0,,Every time I hit it,\Nthis powder sprayed everywhere!
+Dialogue: 0,0:11:28.87,0:11:33.62,Default,,0,0,0,,I should've brought a weapon\Nwith more reach!
+Dialogue: 0,0:11:33.62,0:11:34.99,Default,,0,0,0,,I see.
+Dialogue: 0,0:11:34.99,0:11:38.79,Default,,0,0,0,,And then the parasites got taken away\Non a black airship.
+Dialogue: 0,0:11:38.79,0:11:40.79,Default,,0,0,0,,It makes me so mad!
+Dialogue: 0,0:11:40.79,0:11:44.12,Default,,0,0,0,,Well, I'm glad nothing worse happened.
+Dialogue: 0,0:11:44.12,0:11:47.12,Default,,0,0,0,,Tatsuya, you know who they were?
+Dialogue: 0,0:11:47.12,0:11:48.33,Default,,0,0,0,,Yeah.
+Dialogue: 0,0:11:48.33,0:11:54.16,Default,,0,0,0,,If they used such interesting gear\Nand a stealth-equipped airship...
+Dialogue: 0,0:11:54.16,0:11:58.91,Default,,0,0,0,,it has to be the Japan Ground Defense Force's\Ncounterintelligence Section Three.
+Dialogue: 0,0:11:58.91,0:12:03.70,Default,,0,0,0,,If we know who we're up against, don't we\Nknow where they brought the parasites to?
+Dialogue: 0,0:12:03.70,0:12:06.62,Default,,0,0,0,,We can't narrow it down\Nif we don't know what they're after.
+Dialogue: 0,0:12:07.95,0:12:09.74,Default,,0,0,0,,Right.
+Dialogue: 0,0:12:09.74,0:12:13.95,Default,,0,0,0,,They're a government agency, so they can\Nprobably have as many bases as they need.
+Dialogue: 0,0:12:13.95,0:12:16.54,Default,,0,0,0,,Well, they've got a budget.
+Dialogue: 0,0:12:16.54,0:12:18.87,Default,,0,0,0,,They can't just have a hundred.
+Dialogue: 0,0:12:18.87,0:12:24.66,Default,,0,0,0,,But they're probably hidden all over the place,\Nso well even a thorough search wouldn't work.
+Dialogue: 0,0:12:24.66,0:12:27.87,Default,,0,0,0,,Well, we don't have to worry about it much.
+Dialogue: 0,0:12:27.87,0:12:33.45,Default,,0,0,0,,We'll just have to make sure nobody\Ncan barge in this time. We'll set a trap.
+Dialogue: 0,0:12:39.37,0:12:42.37,Default,,0,0,0,,Good morning, Ms. Balance.
+Dialogue: 0,0:12:42.37,0:12:45.41,Default,,0,0,0,,I apologize for calling so early, Colonel.
+Dialogue: 0,0:12:45.41,0:12:49.41,Default,,0,0,0,,Oh, it's you. Did you have\Nsomething to tell me?
+Dialogue: 0,0:12:49.41,0:12:50.62,Default,,0,0,0,,Yes.
+Dialogue: 0,0:12:50.62,0:12:57.70,Default,,0,0,0,,Yesterday, the JGDF counterintelligence\Ndepartment's Section Three captured parasites.
+Dialogue: 0,0:12:57.70,0:13:03.83,Default,,0,0,0,,We discovered one of them is a magician\Nformerly belonging to the USNA military.
+Dialogue: 0,0:13:03.83,0:13:06.87,Default,,0,0,0,,The parasites have begun moving again?
+Dialogue: 0,0:13:06.87,0:13:12.66,Default,,0,0,0,,It's possible that after the parasites' vessels\Nwere destroyed, they found new hosts.
+Dialogue: 0,0:13:12.66,0:13:15.70,Default,,0,0,0,,Here are the ones\Nthat have been captured.
+Dialogue: 0,0:13:16.99,0:13:20.08,Default,,0,0,0,,Three parasites have now\Nbeen taken prisoner.
+Dialogue: 0,0:13:20.08,0:13:24.74,Default,,0,0,0,,This is the only one we've identified\Nthus far, but if you wish...
+Dialogue: 0,0:13:24.74,0:13:29.12,Default,,0,0,0,,we can tell you where they are being held.
+Dialogue: 0,0:13:29.12,0:13:32.04,Default,,0,0,0,,Please do, Ms. Kuroba.
+Dialogue: 0,0:13:32.04,0:13:33.95,Default,,0,0,0,,Very well.
+Dialogue: 0,0:13:46.95,0:13:48.62,Default,,0,0,0,,That's about it.
+Dialogue: 0,0:13:48.62,0:13:52.29,Default,,0,0,0,,I believe that airship belonged to the information\Nbureau's counterintelligence Section Three,
+Dialogue: 0,0:13:52.29,0:13:56.12,Default,,0,0,0,,rumored to have ties to the Saegusa Family.
+Dialogue: 0,0:13:56.12,0:14:00.45,Default,,0,0,0,,If you're considering using the parasites\Nfor military purposes, that would be dangerous.
+Dialogue: 0,0:14:00.45,0:14:03.37,Default,,0,0,0,,We don't know for sure\Nhow to destroy them...
+Dialogue: 0,0:14:03.37,0:14:06.29,Default,,0,0,0,,so I think we should be sealing them.
+Dialogue: 0,0:14:06.29,0:14:08.66,Default,,0,0,0,,Counterintelligence Section Three?
+Dialogue: 0,0:14:08.66,0:14:11.16,Default,,0,0,0,,Even I didn't know that,\Ndespite being a member of the Saegusa family,
+Dialogue: 0,0:14:11.16,0:14:13.87,Default,,0,0,0,,so I'm surprised you know about it.
+Dialogue: 0,0:14:13.87,0:14:18.62,Default,,0,0,0,,I'd appreciate it if you didn't ask\Nwhat my information source is.
+Dialogue: 0,0:14:18.62,0:14:23.08,Default,,0,0,0,,Well, you probably have a lot\Nof your own things going on, so I won't.
+Dialogue: 0,0:14:23.08,0:14:24.49,Default,,0,0,0,,More importantly...
+Dialogue: 0,0:14:24.49,0:14:28.33,Default,,0,0,0,,why didn't you tell me\Nyou were going out to capture the parasites?
+Dialogue: 0,0:14:28.33,0:14:33.70,Default,,0,0,0,,Because I figured bringing more people\Nalong would make them cautious.
+Dialogue: 0,0:14:36.24,0:14:39.62,Default,,0,0,0,,It does make sense, I guess.
+Dialogue: 0,0:14:39.62,0:14:45.83,Default,,0,0,0,,Anyway, you want me to explain\Nthis to my father, right?
+Dialogue: 0,0:14:45.83,0:14:50.24,Default,,0,0,0,,And get the information bureau to give back the\Nparasites they snatched to Erika and the others?
+Dialogue: 0,0:14:50.24,0:14:53.12,Default,,0,0,0,,I won't tell you to get them\Nto give them back...
+Dialogue: 0,0:14:53.12,0:14:56.41,Default,,0,0,0,,but once you've verified the reason\Nthey took the parasites away,
+Dialogue: 0,0:14:56.41,0:14:58.70,Default,,0,0,0,,if they're trying to deal with them\Nin any other way than sealing them,
+Dialogue: 0,0:14:58.70,0:15:01.45,Default,,0,0,0,,I'd like you to warn them off.
+Dialogue: 0,0:15:01.45,0:15:03.04,Default,,0,0,0,,Tell them that if the public finds out
+Dialogue: 0,0:15:03.04,0:15:05.08,Default,,0,0,0,,that the information bureau is\Ntaking advantage of the parasites
+Dialogue: 0,0:15:05.08,0:15:08.66,Default,,0,0,0,,and magicians face\Ndisadvantages because of it,
+Dialogue: 0,0:15:08.66,0:15:12.20,Default,,0,0,0,,they'll be the ones\Npaying for the damages.
+Dialogue: 0,0:15:13.41,0:15:15.49,Default,,0,0,0,,That's a scary thought.
+Dialogue: 0,0:15:15.49,0:15:21.20,Default,,0,0,0,,Considering what's happening in the USNA,\NI believe the threat is necessary.
+Dialogue: 0,0:15:24.66,0:15:26.16,Default,,0,0,0,,Will do.
+Dialogue: 0,0:15:26.16,0:15:27.99,Default,,0,0,0,,I'll talk to my father.
+Dialogue: 0,0:15:27.99,0:15:32.83,Default,,0,0,0,,But I can't promise any results,\Nso don't expect too much.
+Dialogue: 0,0:15:32.83,0:15:38.41,Default,,0,0,0,,Unlike Jumonji, I don't have\Nfree reign over the Saegusa.
+Dialogue: 0,0:15:38.41,0:15:40.04,Default,,0,0,0,,Thank you.
+Dialogue: 0,0:15:40.91,0:15:43.83,Default,,0,0,0,,{\fad(0,500)\shad2\fs39\bord0\fnOpen Sans Light\b0\3c&H000000&\u1\pos(288,90)\c&HFFFFFF&\4c&H000000&\clip(128,46,328,126)\t(0,50,\clip(128,46,440,130))}FEBRUARY 18, 2096
+Dialogue: 0,0:15:49.08,0:15:50.74,Default,,0,0,0,,Saegusa...
+Dialogue: 0,0:15:52.30,0:15:56.58,Default,,0,0,0,,{\an1\bord0\c&HD8CEBA&\move(664,169,661,136)}MAYUMI SAEGUSA
+Dialogue: 0,0:15:52.30,0:15:56.58,Default,,0,0,0,,{\an1\bord0\c&HD8CEBA&\move(664,281,663.111,248)}CONFIRMATION
+Dialogue: 0,0:15:52.30,0:15:56.58,Default,,0,0,0,,{\an7\bord0\c&HADA17B&\fnOpen Sans\move(248,571,248,540)}A spy holding facility belonging to\Ncounterintelligence Section Three has been\Nattacked, and the captured parasites were killed.
+Dialogue: 0,0:16:14.24,0:16:15.87,Default,,0,0,0,,This?
+Dialogue: 0,0:16:30.83,0:16:32.49,Default,,0,0,0,,Lina...
+Dialogue: 0,0:16:46.79,0:16:49.08,Default,,0,0,0,,They make her do cruel things.
+Dialogue: 0,0:16:49.08,0:16:51.58,Default,,0,0,0,,Brother, was that...
+Dialogue: 0,0:16:51.58,0:16:53.79,Default,,0,0,0,,Lina?
+Dialogue: 0,0:16:53.79,0:16:54.99,Default,,0,0,0,,Probably.
+Dialogue: 0,0:16:56.54,0:17:00.91,Default,,0,0,0,,A homicidal act, clearly without any thought\Ngiven to the contents within.
+Dialogue: 0,0:17:00.91,0:17:04.79,Default,,0,0,0,,The goal was only to burn\Nthe containers to cinders.
+Dialogue: 0,0:17:04.79,0:17:06.49,Default,,0,0,0,,It had been an execution.
+Dialogue: 0,0:17:08.66,0:17:12.24,Default,,0,0,0,,Assassinations are lonely\Nand cheerless work.
+Dialogue: 0,0:17:12.24,0:17:15.08,Default,,0,0,0,,Without a high degree of affinity\Npersonality-wise,
+Dialogue: 0,0:17:15.08,0:17:18.04,Default,,0,0,0,,it's too heavy for a teenage girl.
+Dialogue: 0,0:17:18.04,0:17:20.12,Default,,0,0,0,,So heavy she won't be able to endure.
+Dialogue: 0,0:17:20.12,0:17:23.41,Default,,0,0,0,,It will crush her heart, little by little.
+Dialogue: 0,0:17:23.41,0:17:25.49,Default,,0,0,0,,And Lina doesn't have...
+Dialogue: 0,0:17:25.49,0:17:28.08,Default,,0,0,0,,the affinity to be an assassin.
+Dialogue: 0,0:17:33.54,0:17:36.08,Default,,0,0,0,,Hello! Can you hear me?
+Dialogue: 0,0:17:37.62,0:17:41.95,Default,,0,0,0,,It's okay, Miyuki. This room is free\Nof any sort of microphones or cameras.
+Dialogue: 0,0:17:41.95,0:17:46.00,Default,,0,0,0,,He's just talking at us.\NWe can't communicate.
+Dialogue: 0,0:17:43.45,0:17:47.45,Default,,0,0,0,,{\an8}I'm going to assume you can,\Nif that's all right.
+Dialogue: 0,0:17:47.45,0:17:49.79,Default,,0,0,0,,I'll start with an introduction.
+Dialogue: 0,0:17:49.79,0:17:53.29,Default,,0,0,0,,My name is Raymond Sage Clark.
+Dialogue: 0,0:17:53.29,0:17:55.79,Default,,0,0,0,,One of the Seven Sages.
+Dialogue: 0,0:17:55.79,0:17:57.62,Default,,0,0,0,,The Seven Sages...
+Dialogue: 0,0:17:59.33,0:18:02.37,Default,,0,0,0,,I heard about you from Tia... or rather...
+Dialogue: 0,0:18:02.37,0:18:04.54,Default,,0,0,0,,Shizuku.
+Dialogue: 0,0:18:04.54,0:18:06.33,Default,,0,0,0,,Pleased to meet you, Tatsuya!
+Dialogue: 0,0:18:06.33,0:18:10.37,Default,,0,0,0,,I see. He's Shizuku's information source.
+Dialogue: 0,0:18:10.37,0:18:12.29,Default,,0,0,0,,I'll cut to the chase.
+Dialogue: 0,0:18:12.29,0:18:16.99,Default,,0,0,0,,I'm the one who told Angie Sirius\Nabout counterintelligence Section Three.
+Dialogue: 0,0:18:16.99,0:18:22.24,Default,,0,0,0,,Although it seems like she somehow\Nlearned of this before I informed her.
+Dialogue: 0,0:18:22.24,0:18:26.41,Default,,0,0,0,,And I also wanted to give you the scoop.
+Dialogue: 0,0:18:26.41,0:18:30.49,Default,,0,0,0,,I think you'll find it highly beneficial.
+Dialogue: 0,0:18:30.49,0:18:34.24,Default,,0,0,0,,The magician boycott movements\Nraging fiercely in the States right now,
+Dialogue: 0,0:18:34.24,0:18:37.91,Default,,0,0,0,,the ones starting to gain traction in Japan,\Nwere set up by one of the Seven Sages.
+Dialogue: 0,0:18:37.91,0:18:40.45,Default,,0,0,0,,Gide Sage Hague.
+Dialogue: 0,0:18:40.45,0:18:41.95,Default,,0,0,0,,What?
+Dialogue: 0,0:18:41.95,0:18:45.58,Default,,0,0,0,,Gide Hague... Also known as Gu Jie...\NA stateless overseas Chinese person...
+Dialogue: 0,0:18:45.58,0:18:49.79,Default,,0,0,0,,and supreme leader of the international\Nterrorist organization, Blanche...
+Dialogue: 0,0:18:49.79,0:18:55.37,Default,,0,0,0,,He's the boss of Hajime Tsukasa, whom you caught,\Nthe leader of Blanche's Japanese branch.
+Dialogue: 0,0:18:55.37,0:18:57.41,Default,,0,0,0,,And also a senior member\Nof Richard Sun's group,
+Dialogue: 0,0:18:57.41,0:19:02.54,Default,,0,0,0,,the previous leader of the international\Ncrime syndicate, No-Head Dragon.
+Dialogue: 0,0:19:02.54,0:19:07.95,Default,,0,0,0,,In No-Head Dragon, they called Gu Jie\N"the Black Elder" or "the Great Hague."
+Dialogue: 0,0:19:07.95,0:19:10.41,Default,,0,0,0,,Oh, and just so you know,
+Dialogue: 0,0:19:10.41,0:19:14.95,Default,,0,0,0,,just because he's one of the Seven Sages\Ndoesn't mean I'm in conspiracy with him.
+Dialogue: 0,0:19:14.95,0:19:18.41,Default,,0,0,0,,"Seven Sages" isn't the name\Nof a single group.
+Dialogue: 0,0:19:18.41,0:19:23.33,Default,,0,0,0,,It refers to the seven operators\Nwith access privileges to Hlidskjalf.
+Dialogue: 0,0:19:23.33,0:19:25.41,Default,,0,0,0,,Hlidskjalf...
+Dialogue: 0,0:19:25.41,0:19:28.41,Default,,0,0,0,,I've heard a rumor about it once.
+Dialogue: 0,0:19:28.41,0:19:30.70,Default,,0,0,0,,Does it actually exist?
+Dialogue: 0,0:19:30.70,0:19:34.16,Default,,0,0,0,,Hlidskjalf is one of the additional\Nexpansion systems for Echelon III,
+Dialogue: 0,0:19:34.16,0:19:38.08,Default,,0,0,0,,the global monitoring system.
+Dialogue: 0,0:19:38.08,0:19:41.08,Default,,0,0,0,,Since it uses a backdoor in Echelon III,
+Dialogue: 0,0:19:41.08,0:19:46.45,Default,,0,0,0,,maybe calling it a hacking system\Nlurking within the system would be better.
+Dialogue: 0,0:19:46.45,0:19:50.49,Default,,0,0,0,,Anyway, Hlidskjalf collects information\Nfrom throughout the world
+Dialogue: 0,0:19:50.49,0:19:54.83,Default,,0,0,0,,and gives information\Nalong with search matches to the operators.
+Dialogue: 0,0:19:54.83,0:19:59.16,Default,,0,0,0,,The system itself decides\Nwho the operators will be,
+Dialogue: 0,0:19:59.16,0:20:02.62,Default,,0,0,0,,and we haven't found any logic\Nto how it chooses people.
+Dialogue: 0,0:20:02.62,0:20:05.29,Default,,0,0,0,,Ostensibly, it's completely random.
+Dialogue: 0,0:20:05.29,0:20:06.58,Default,,0,0,0,,This is insane.
+Dialogue: 0,0:20:06.58,0:20:12.04,Default,,0,0,0,,And using Hlidskjalf\Nis a risk to the operators, too.
+Dialogue: 0,0:20:12.04,0:20:14.99,Default,,0,0,0,,The operator's search history is saved.
+Dialogue: 0,0:20:14.99,0:20:19.62,Default,,0,0,0,,Search history records\Nare how I learned about Gide Hague.
+Dialogue: 0,0:20:19.62,0:20:25.04,Default,,0,0,0,,Then, wouldn't Gide Hague now know\NRaymond Clark's identity, too?
+Dialogue: 0,0:20:25.04,0:20:27.33,Default,,0,0,0,,When Blanche's Japanese branch went under...
+Dialogue: 0,0:20:27.33,0:20:30.74,Default,,0,0,0,,and No-Head Dragon lost\Nits Japanese headquarters...
+Dialogue: 0,0:20:30.74,0:20:34.83,Default,,0,0,0,,Hague lost all his ways\Nto influence Japan.
+Dialogue: 0,0:20:34.83,0:20:38.33,Default,,0,0,0,,Hague was the one who set up\Nthe parasites to come to Japan, too.
+Dialogue: 0,0:20:38.33,0:20:44.74,Default,,0,0,0,,His goal is to rebuild his spy base in Japan\Nby taking advantage of the chaos.
+Dialogue: 0,0:20:44.74,0:20:51.37,Default,,0,0,0,,I've deciphered that his goal\Nis to destroy magic through social means.
+Dialogue: 0,0:20:51.37,0:20:56.08,Default,,0,0,0,,If he can get rid of it, the Great Asian Alliance,\Nwhich is behind the curve when it comes to magic,
+Dialogue: 0,0:20:56.08,0:20:59.45,Default,,0,0,0,,will immediately see its military might\Nimprove compared to Japan.
+Dialogue: 0,0:20:59.45,0:21:02.49,Default,,0,0,0,,To reign over a world without magic.
+Dialogue: 0,0:21:02.49,0:21:06.62,Default,,0,0,0,,I think that's what Hague\Nand the people behind him are after.
+Dialogue: 0,0:21:06.62,0:21:11.79,Default,,0,0,0,,His logic has leaps in it,\Nbut as a whole, it makes sense.
+Dialogue: 0,0:21:11.79,0:21:15.12,Default,,0,0,0,,And that isn't what I want.
+Dialogue: 0,0:21:15.12,0:21:17.62,Default,,0,0,0,,You can laugh at me,\Nbecause this is going to seem romantic,
+Dialogue: 0,0:21:17.62,0:21:21.87,Default,,0,0,0,,but I think magic is a way\Ntoward a reformation of humankind.
+Dialogue: 0,0:21:23.33,0:21:29.74,Default,,0,0,0,,Anyway, I'd like to keep providing you\Nwith necessary information in the future.
+Dialogue: 0,0:21:29.74,0:21:34.24,Default,,0,0,0,,Tatsuya Shiba, the Strategic-Class magician,\NShiva the Destroyer.
+Dialogue: 0,0:21:34.24,0:21:36.66,Default,,0,0,0,,That's a terrible nickname.
+Dialogue: 0,0:21:36.66,0:21:39.62,Default,,0,0,0,,Sorry, this all got a little long-winded.
+Dialogue: 0,0:21:39.62,0:21:45.91,Default,,0,0,0,,Basically, I'm proposing\Nto help you get rid of the parasites.
+Dialogue: 0,0:21:45.91,0:21:49.99,Default,,0,0,0,,Tomorrow night,\NFebruary nineteenth by you,
+Dialogue: 0,0:21:49.99,0:21:55.99,Default,,0,0,0,,lure all active parasites to the outdoor\Ntraining area behind First High.
+Dialogue: 0,0:21:55.99,0:21:59.41,Default,,0,0,0,,Then, I want you to annihilate them.
+Dialogue: 0,0:22:00.79,0:22:04.95,Default,,0,0,0,,And I've already given Angie Sirius\Nthis information, too.
+Dialogue: 0,0:22:04.95,0:22:09.33,Default,,0,0,0,,You can cooperate with her\Nor compete with her, whatever you prefer.
+Dialogue: 0,0:22:19.95,0:22:23.41,Default,,0,0,0,,We'll be late unless we leave soon.
+Dialogue: 0,0:23:48.54,0:23:52.08,Default,,0,0,0,,{\bord3\fnOpen Sans Extrabold\b0\c&HFFFEFC&\3c&H1D3EDF&\pos(702,68)}VISITOR ARC X
